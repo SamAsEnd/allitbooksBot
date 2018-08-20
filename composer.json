@@ -4,5 +4,10 @@
         "botman/botman": "^2.4",
         "botman/driver-telegram": "^1.5",
         "vlucas/phpdotenv": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andegna\\AllItBooksBot\\": "src"
+        }
     }
 }
