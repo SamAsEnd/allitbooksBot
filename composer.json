@@ -1,5 +1,7 @@
 {
     "require": {
-        "fabpot/goutte": "^3.2"
+        "fabpot/goutte": "^3.2",
+        "botman/botman": "^2.4",
+        "botman/driver-telegram": "^1.5"
     }
 }
